@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Maintenance windows HPC Cloud
+## Maintenance windows Object Store
 
 > **NOTE:** 
 >

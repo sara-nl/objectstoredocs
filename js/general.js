@@ -12,7 +12,7 @@
   srcLocation = srcLocation.substr( ( location.protocol + '//' + location.host ).length );
 
   $( function() {
-    var githubBaseEditURL = 'https://github.com/sara-nl/clouddocs/edit/gh-pages';
+    var githubBaseEditURL = 'https://github.com/sara-nl/objectstoredocs/edit/master';
   
     // Determine the edit location for this page
     var editLocation = location.pathname;
@@ -34,7 +34,7 @@
   
     // And set the right href to the links
     $('a.edit').attr( 'href', githubBaseEditURL + editLocation + '.markdown' ).attr( 'style', '' );
-    $('a.comments').attr( 'href', 'mailto:helpdesk@surfsara.nl?subject=HPC%20Cloud%20documentation%20comments%20on%20page:%20' + encodeURIComponent( editLocation ) );
+    $('a.comments').attr( 'href', 'mailto:helpdesk@surfsara.nl?subject=Object%20Store%20documentation%20comments%20on%20page:%20' + encodeURIComponent( editLocation ) );
 
     // Now enable the search bars
     $('.searchbutton').on( 'click', function() {

@@ -20,9 +20,9 @@ All documentation is written in markdown. Behind the scenes we use GitHub Pages 
  * [Jekyll and GitHub Pages](https://help.github.com/articles/using-jekyll-with-pages/)
  * [Jekyll documentation](https://jekyllrb.com/docs/home/)
 
-However, don't worry to much about all this new information. You'll see that markdown is quit intuitive. Besides, we will check your changes too. If you find it all too overwhelming anyway, or if you just don't feel like going through all this hussle, you are always free to just send us an e-mail with your remarks and we will change the documentation ourselves: [helpdesk@surfsara.nl](mailto:helpdesk@surfsara.nl?subject=HPC%20Cloud%20documentation%20comments)
+However, don't worry to much about all this new information. You'll see that markdown is quit intuitive. Besides, we will check your changes too. If you find it all too overwhelming anyway, or if you just don't feel like going through all this hussle, you are always free to just send us an e-mail with your remarks and we will change the documentation ourselves: [helpdesk@surfsara.nl](mailto:helpdesk@surfsara.nl?subject=Object%20Store%20documentation%20comments)
 
-## MarkDown best practice for SURFsara HPC Cloud documentation
+## MarkDown best practice for SURFsara Object Store documentation
 
 Please consult the following guidelines before contributing updates, bug fixes,
 or other corrections.

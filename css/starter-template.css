@@ -1,0 +1,28 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+}
+h2::before {
+    content: "■";
+    padding-right: 0.2em;
+}
+img {
+  max-width: 100%;
+}
+blockquote {
+  color: #777;
+  font-size: 14px;
+}
+code {
+  color: #777;
+}
+#navbar .searchbox {
+  padding-top: 12px;
+  padding-right: 15px;
+  float: right;
+}
+.searchbox {
+  display: none;
+}
